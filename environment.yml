@@ -2,6 +2,7 @@ name: tfm
 channels:
   - conda-forge
 dependencies:
+  # PYTHON
   - python=3.11.14
   - pip=25.2
   - numpy=2.3.3
@@ -15,5 +16,12 @@ dependencies:
   - ipykernel=7.0.1
   - tqdm=4.67.1
   - python-dotenv=1.1.1
+  # R
+  - r-base=4.4.*
+  - r-dplyr
+  - r-readr
+  - r-here
+  - r-tidyverse
+  # PIP
   - pip:
       - pydeseq2==0.5.2
