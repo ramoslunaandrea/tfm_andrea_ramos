@@ -44,7 +44,7 @@ Archivos adicionales:
 Para reproducir los análisis, es necesario descargar los archivos de anotación funcional desde Zenodo y colocarlos manualmente en la carpeta `data/raw/`.
 
 1. Acceder al siguiente enlace de Zenodo:  
-(https://doi.org/10.5281/zenodo_17443234)
+[(https://doi.org/10.5281/zenodo.17458786)]
 
 2. Descargar el archivo comprimido `functional_annotations.zip`.
 
